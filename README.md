@@ -1,2 +1,2 @@
 # triviador
-just a test repository
+just a test repository learning git
